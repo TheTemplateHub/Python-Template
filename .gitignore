@@ -1,2 +1,6 @@
+# Folders
+.vscode
+.idea
+
 # Default
 __pycache__/
